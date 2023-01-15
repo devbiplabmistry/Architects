@@ -342,12 +342,101 @@ html,body{
 /* =======================================================================
                                Navbar css start Here
    ======================================================================= */
+   #Sponspors{
+      margin-top: 175px;
+   }
+   .Sponspors-title{
+      text-align: center;
+   }
+   .Sponspors-title h3{
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 700;
+      font-size: 45px;
+      color: #131313;
+      margin-bottom: 20px;
+   }
+   .Sponspors-title p{
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 26px;
+      color: #131313;
+      padding: 0 266px;
+   }
+   .sponspors-wrapper{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 40px;
+   }
 /* =======================================================================
                                Navbar css End Here
    ======================================================================= */
+   #call-to-action{
+      margin-top: 80px;
+   }
+   .call-to-action-title{
+      text-align: center;
+   }
+   .call-to-action-title h3{
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 700;
+      font-size: 45px;
+      color: #131313;
+      margin-bottom: 20px;
+   }
+   .c-form{
+      text-align: center;
+   }
+   .c-form label{
+      display: block;
+   }
+   .c-form  button{
+      padding: 10px 30px;
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+   border-radius: 10px;
+   background-color: #FF900E;
+   border: 0;
+   color: #fff;
+   }
+   .c-form label input{
+      padding-left: 10px;
+      padding-right: 30px;
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 26px;
+      color: #131313;
+      margin-bottom: 12px;
+   }
 /* =======================================================================
                                Navbar css start Here
    ======================================================================= */
+   #copy{
+      background-color: #FFF4E7;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      margin-top: 130px;
+   }
+   .copy-wrapper{
+      display: flex;
+      justify-content: space-around;
+   }
+   .left-copy h5{
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 26px;
+      color: #424242;
+   }
+   .right-copy h5{
+      font-family: 'Work Sans', sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 26px;
+      color: #424242;
+   }
 /* =======================================================================
                                Navbar css End Here
    ======================================================================= */
